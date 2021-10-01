@@ -1,0 +1,22 @@
+body {
+    font-family: Arial;
+    background-color: black;
+}
+
+h1 {
+    color: white;
+    font-size: 40px;
+
+}
+p {
+    color: white;
+    font-size: 23px;
+    background-color:black;
+}
+
+img {
+    max-width: 200px;
+    float: left;
+    margin-right: 20px;
+    
+}
