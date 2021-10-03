@@ -1,21 +1,26 @@
 body {
     font-family: Arial;
-    background-color: #1c263e;
+    background-color: darkgray;
 }
 
 h1 {
-    color: cornflowerblue;
-    font-size: 23px;
+    color: rgb(251, 255, 41);
+    font-size: 30px;
+    margin-left: 3%;
+    background-color: #3f454b;
 }
 
 p {
-    color: orange;
-    font-size: 16px;
-    background-color: #246aae;
+    color: rgb(195, 168, 14);
+    font-size: 22px;
+    background-color: #3f454b;
+    margin-left: 3%;
 }
 
 .title {
-    color: orange;
+    color: rgb(251, 255, 41);
+    font-size: 15px;
+    margin-left: 3%;
 }
 
 table,
@@ -26,7 +31,15 @@ td {
 }
 
 img {
-    max-width: 200px;
+    max-width: 300%;
     float: left;
-    margin-right: 15px;
+    margin-right: 3%;
+    margin-left: 3%;
+}
+
+ul {
+    margin-left: 70px;
+    font-size: x-large;
+    float: unset;
+    max width: 150px;
 }
