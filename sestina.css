@@ -1,12 +1,58 @@
-body {
-    background-color: darkgray;
-}
-
-h1 {
-    color: green text-align: right;
-}
-
-p {
-    font-size: 70px;
-    font-color:
-}
+    body {
+        background-color: darkgray;
+    }
+    
+    h1 {
+        color: aquamarine;
+        text-align: center
+    }
+    
+    p {
+        font-size: 10px;
+        color: yellow;
+        flex-direction: column;
+    }
+    
+    .sestina div {
+        border: 10px ridge #f00;
+        background-color: #ff0;
+        padding: .5rem;
+        display: flex;
+        flex-direction: column;
+        text-align: center;
+        word-wrap: break-word;
+    }
+    
+    .sestina {
+        border: 10px ridge purple;
+        background-color: grey;
+        color: yellow;
+        font-size: larger;
+        font-family: Arial, Helvetica, sans-serif;
+        font-weight: 500;
+        padding: .5rem;
+        display: flex;
+        flex-direction: column;
+        text-align: center;
+    }
+    
+    .sestina p {
+        font-size: large;
+        font-style: normal;
+        font-family: Arial, Helvetica, sans-serif;
+    }
+    
+    .sestina pre {
+        overflow-x: auto;
+        white-space: pre-wrap;
+        white-space: -moz-pre-wrap;
+        white-space: pre-wrap;
+        white-space: -o-pre-wrap;
+        word-wrap: break-word;
+    }
+    
+    div {
+        width: 100%;
+        margin: auto;
+        border: 10px purple;
+    }
