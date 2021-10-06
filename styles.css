@@ -42,4 +42,13 @@ ul {
     font-size: x-large;
     float: unset;
     max-width: 150px;
+    color: blue;
+}
+
+li{
+    color:rgb(251, 255, 41);
+}
+
+a{
+    color: rgb(32, 104, 170);
 }
