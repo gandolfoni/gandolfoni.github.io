@@ -31,7 +31,7 @@ td {
 }
 
 img {
-  max-width: 100%;
+  size: 20%;
   float: left;
   margin-right: 3%;
   margin-left: 3%;
@@ -42,4 +42,27 @@ ul {
   font-size: x-large;
   float: unset;
   max-width: 150px;
+}
+
+.outer {
+  height: 300px;
+  width: 300px;
+  border: 1px solid #000;
+}
+
+.inner {
+  height: 100px;
+  width: 100px;
+  margin: 100px;
+  background: red;
+}
+
+img {
+  height: auto;
+  width: 100px;
+  display: none;
+}
+
+.inner:hover img {
+  display: block;
 }
