@@ -1,68 +1,69 @@
 body {
-  background-color: darkgray;
+    background-color: darkgray;
 }
 
 h1 {
-  color: aquamarine;
-  text-align: center;
+    color: black;
+    text-align: center;
 }
 
 p {
-  font-size: 10px;
-  color: yellow;
-  flex-direction: column;
+    font-size: 10px;
+    color: black;
+    flex-direction: column;
 }
 
 .sestina div {
-  border: 10px ridge #f00;
-  background-color: #ff0;
-  padding: 0.5rem;
-  display: flex;
-  flex-direction: column;
-  text-align: center;
-  word-wrap: break-word;
+    border: 10px ridge #f00;
+    background-color: #ff0;
+    padding: 0.5rem;
+    display: flex;
+    flex-direction: column;
+    text-align: center;
+    word-wrap: break-word;
 }
 
 .sestina {
-  border: 10px ridge purple;
-  background-color: grey;
-  color: yellow;
-  font-size: larger;
-  font-family: Arial, Helvetica, sans-serif;
-  font-weight: 500;
-  padding: 0.5rem;
-  display: flex;
-  flex-direction: column;
-  text-align: center;
+    border: 10px ridge rgb(0, 81, 128);
+    background-color: bisque;
+    color: black;
+    font-size: larger;
+    font-family: Arial, Helvetica, sans-serif;
+    font-weight: bold;
+    padding: 0.5rem;
+    display: flex;
+    flex-direction: column;
+    text-align: center;
 }
 
 .sestina p {
-  font-size: large;
-  font-style: normal;
-  font-family: Arial, Helvetica, sans-serif;
+    font-size: large;
+    font-style: normal;
+    font-family: Arial, Helvetica, sans-serif;
 }
 
 .sestina pre {
-  overflow-x: auto;
-  white-space: pre-wrap;
-  white-space: -moz-pre-wrap;
-  white-space: pre-wrap;
-  white-space: -o-pre-wrap;
-  word-wrap: break-word;
+    overflow-x: auto;
+    white-space: pre-wrap;
+    white-space: -moz-pre-wrap;
+    white-space: pre-wrap;
+    white-space: -o-pre-wrap;
+    word-wrap: break-word;
 }
 
 div {
-  width: 100%;
-  margin: auto;
-  border: 10px purple;
+    width: 100%;
+    margin: auto;
+    border: 10px rgb(135, 183, 222);
 }
 
 hr {
-  display: block;
-  margin-top: 0.5em;
-  margin-bottom: 0.5em;
-  margin-left: auto;
-  margin-right: auto;
-  border-style: inset;
-  border-width: 1px;
+    display: block;
+    margin-top: 0.5em;
+    margin-bottom: 0.5em;
+    margin-left: auto;
+    margin-right: auto;
+    border-style: inset;
+    border-width: 1px;
+    width: 90px;
 }
