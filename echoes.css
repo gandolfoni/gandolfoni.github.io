@@ -1,11 +1,3 @@
-body {
-    font-family: Arial;
-    background-image: url('darkstarbackground1080p.JPG');
-    background-repeat: no-repeat;
-    background-attachment: fixed;
-    background-size: cover;
-}
-
 h1 {
     color: rgb(251, 255, 41);
     font-size: 30px;
