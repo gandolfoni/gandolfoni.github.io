@@ -21,8 +21,6 @@ p {
     margin-left: 3%;
 }
 
-table,
-th,
 td {
     border: 2px solid white;
     text-align: center;
@@ -61,6 +59,10 @@ img {
     display: none;
 }
 
-div {
-    background-image: url('darkstarbackground1080.jpg');
-}
+
+/* div {
+
+background-image: url("darkstarbackground1080.jpg");
+background-repeat: no-repeat;
+background-attachment: fixed;
+background-size: cover; */
