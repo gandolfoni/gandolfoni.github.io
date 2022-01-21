@@ -1,67 +1,66 @@
 body {
-  font-family: Arial;
-  background-color: darkgray;
+    font-family: Arial;
+    background-image: url('darkstarbackground1080p.JPG');
 }
 
 h1 {
-  color: rgb(251, 255, 41);
-  font-size: 30px;
-  margin-left: 3%;
-  background-color: #3f454b;
+    color: rgb(251, 255, 41);
+    font-size: 30px;
+    margin-left: 3%;
 }
 
 p {
-  color: rgb(195, 168, 14);
-  font-size: 22px;
-  background-color: #3f454b;
-  margin-left: 3%;
+    color: rgb(251, 255, 41);
+    font-size: 22px;
+    margin-left: 3%;
 }
 
 .title {
-  color: rgb(251, 255, 41);
-  font-size: 15px;
-  margin-left: 3%;
+    color: rgb(251, 255, 41);
+    font-size: 15px;
+    margin-left: 3%;
 }
 
 table,
 th,
 td {
-  border: 2px solid white;
-  text-align: center;
+    border: 2px solid white;
+    text-align: center;
 }
 
 img {
-  size: 200%;
-  float: right;
-  margin-right: 3%;
-  margin-left: 3%;
+    size: 200%;
+    float: right;
+    margin-right: 3%;
+    margin-left: 3%;
 }
 
 ul {
-  margin-left: 70px;
-  font-size: x-large;
-  float: unset;
-  max-width: 150px;
+    margin-left: 70px;
+    font-size: x-large;
+    float: unset;
+    max-width: 150px;
 }
 
 .outer {
-  height: 300px;
-  width: 300px;
-  border: 1px solid #000;
+    height: 300px;
+    width: 300px;
+    border: 1px solid #000;
 }
 
 .inner {
-  height: 300px;
-  width: 300px;
-  margin: 300px;
-  background: red;
+    height: 300px;
+    width: 300px;
+    margin: 300px;
+    background: red;
 }
 
 img {
-  height: auto;
-  width: 500px;
-  display: none;
+    height: auto;
+    width: 500px;
+    display: none;
 }
 
-inner {
+div {
+    background-image: url('darkstarbackground1080.jpg');
 }
