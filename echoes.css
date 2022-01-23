@@ -1,15 +1,6 @@
-        body {
-            -webkit-background-clip: border-box;
-            background-clip: border-box;
-            background-origin: border-box;
-            background-color: transparent;
-            background-position: ;
-            background-size: cover;
-        }
-        
         h1 {
-            color: rgb(41, 105, 255);
-            font-size: 30px;
+            color: rgb(13, 228, 228);
+            font-size: 50px;
             display: flex;
             justify-content: center;
             margin: 3%;
@@ -17,7 +8,7 @@
         
         pre {
             white-space: pre-line;
-            color: rgb(235, 235, 235);
+            color: rgb(13, 228, 228);
             display: flex;
             justify-content: center;
             font-size: 35px;
@@ -26,8 +17,8 @@
         }
         
         .title {
-            color: rgb(41, 105, 255);
-            font-size: 15px;
+            color: rgb(13, 228, 228);
+            font-size: 30px;
             margin-left: 3%;
         }
         
@@ -42,6 +33,6 @@
         p {
             display: flex;
             justify-content: center;
-            font-size: 60px;
-            color: white;
+            font-size: 30px;
+            color: rgb(13, 228, 228);
         }
