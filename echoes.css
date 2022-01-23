@@ -12,6 +12,7 @@
             display: flex;
             justify-content: center;
             font-size: 35px;
+            font-weight: 800;
             margin-left: 2%;
             background-color: transparent !important;
         }
@@ -33,6 +34,6 @@
         p {
             display: flex;
             justify-content: center;
-            font-size: 30px;
+            font-size: 50px;
             color: rgb(13, 228, 228);
         }

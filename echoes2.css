@@ -1,0 +1,39 @@
+h1 {
+    color: rgb(251, 251, 251);
+    font-size: 50px;
+    display: flex;
+    justify-content: center;
+    margin: 3%;
+}
+
+pre {
+    white-space: pre-line;
+    color: rgb(240, 240, 240);
+    display: flex;
+    justify-content: center;
+    font-size: 35px;
+    margin-left: 2%;
+    background-color: black;
+    word-wrap: break-word
+}
+
+.title {
+    color: rgb(243, 243, 243);
+    font-size: 30px;
+    margin-left: 3%;
+}
+
+html {
+    background: url("/assets/darkstarbackground1080.jpg") no-repeat center center fixed;
+    -webkit-background-size: cover;
+    -moz-background-size: cover;
+    -o-background-size: cover;
+    background-size: cover;
+}
+
+p {
+    display: flex;
+    justify-content: center;
+    font-size: 50px;
+    color: rgb(13, 228, 228);
+}
