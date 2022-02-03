@@ -24,10 +24,11 @@ p {
     margin-left: 3%;
 }
 
-td {
+
+/* td {
     border: 2px solid rgb(251, 251, 251);
     text-align: center;
-}
+} */
 
 img {
     size: 200%;
